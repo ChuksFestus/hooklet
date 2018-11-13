@@ -1,11 +1,17 @@
 {
   "name": "hooklet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Useful react hooks",
   "main": "index.js",
   "author": "Chuks Festus <cutogu@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "react": "16.7.0-alpha.0"
-  }
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "react hooks"
+  ],
+  "repository": "https://github.com/ChuksFestus/hooklet.git"
 }
