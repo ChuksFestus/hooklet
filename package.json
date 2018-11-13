@@ -1,0 +1,11 @@
+{
+  "name": "hooklet",
+  "version": "0.0.1",
+  "description": "Useful react hooks",
+  "main": "index.js",
+  "author": "Chuks Festus <cutogu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "16.7.0-alpha.0"
+  }
+}
